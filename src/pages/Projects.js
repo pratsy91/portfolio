@@ -27,12 +27,10 @@ function Projects() {
           </p>
         </div>
         <div className="font-bold text-center bg-red-500 mx-20 p-20 text-white rounded-tl-full rounded-br-full md:mx-5">
-          <h1 className="text-8xl md:text-3xl" data-aos="slide-left">
+          <h1 className="text-8xl md:text-3xl" data-aos="slide-right">
             RECENT
           </h1>
-          <h1 className="text-8xl md:text-3xl" data-aos="slide-right">
-            PROJECTS
-          </h1>
+          <h1 className="text-8xl md:text-3xl">PROJECTS</h1>
         </div>
       </div>
 
@@ -43,7 +41,7 @@ function Projects() {
               <div className="relative p-10 border-2 text-center rounded-tr-3xl rounded-bl-3xl border-gray-400">
                 <img src={project.image} className="w-full h-52 text-center" />
 
-                <div className="absolute inset-0 flex items-center justify-center flex-col opacity-0 bg-black hover:opacity-80 rounded-tr-3xl rounded-bl-3xl">
+                <div className="absolute inset-0 flex items-center justify-center flex-col opacity-0 bg-black hover:opacity-80   rounded-tr-3xl rounded-bl-3xl">
                   <h1 className="text-4xl font-semibold text-white">
                     {project.title}
                   </h1>
