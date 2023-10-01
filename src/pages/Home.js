@@ -159,7 +159,7 @@ function Home() {
               </div>
 
               <div className="text-right">
-                <h1 className="text-xl font-bold">Backend and Databases</h1>
+                <h1 className="text-xl font-bold">Backend</h1>
                 <hr />
                 <p className="font-semibold mt-2">Node JS</p>
                 <p className="font-semibold mt-2">Express JS</p>

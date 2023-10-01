@@ -4,7 +4,7 @@ const projectsData = [
     image: "./ecommerce.svg",
     description:
       "An ecommerce application developed using react , node , redux and mongodb",
-    link: "/",
+    link: "https://e-store-g0du.onrender.com/",
   },
 ];
 
