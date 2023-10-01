@@ -37,10 +37,10 @@ function Home() {
             </div>
 
             <div className="font-bold text-white md:px-5">
-              <h1 className="text-7xl md:text-4xl" data-aos="slide-right">
+              <h1 className="text-7xl md:text-4xl" data-aos="slide-left">
                 Hi , I am <b className="text-yellow-500">PRATAP</b>
               </h1>
-              <h1 className="text-4xl md:text-xl" data-aos="slide-left">
+              <h1 className="text-4xl md:text-xl" data-aos="slide-right">
                 FullStack <b className="text-red-500">Developer</b>
               </h1>
             </div>
