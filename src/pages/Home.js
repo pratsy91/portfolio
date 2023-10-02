@@ -153,7 +153,6 @@ function Home() {
                 <p className="font-semibold mt-2">Bootstrap</p>
                 <p className="font-semibold mt-2">Tailwind</p>
 
-                <p className="font-semibold mt-2">Ant Design</p>
                 <p className="font-semibold mt-2">Material UI</p>
                 <p className="font-semibold mt-2">Semantic UI</p>
               </div>
@@ -164,7 +163,6 @@ function Home() {
                 <p className="font-semibold mt-2">Node JS</p>
                 <p className="font-semibold mt-2">Express JS</p>
 
-                <p className="font-semibold mt-2">PHP</p>
                 <p className="font-semibold mt-2">My SQL</p>
                 <p className="font-semibold mt-2">Mongo DB</p>
               </div>
